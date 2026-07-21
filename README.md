@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="./My%20Wall%20(red).jpg" alt="Kiet Minh - The Wall" width="100%" />
+  <img src="./My%20Wall%20(red).png" alt="Kiet Minh - The Wall" width="100%" />
 
   <h1>🧱 IS THERE ANYBODY OUT THERE? 🧱</h1>
 
@@ -40,12 +40,10 @@
 
 <div align="center">
 
-| Core & Languages | Systems & Frameworks | Infrastructure & Data |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=d62828"/> |
-| <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=d62828"/> |
-| <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=d62828"/> | <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=d62828"/> |
-| <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=d62828"/> |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d62828"/> | <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=d62828"/> |
+| <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=d62828"/> | <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=d62828"/> |
 
 </div>
 
