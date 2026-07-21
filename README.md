@@ -1,61 +1,81 @@
-```markdown
-# 🧱 THE WALL
+<div align="center">
+  <!-- Header Banner -->
+  <img src="./My%20Wall%20(red).jpg" alt="Kiet Minh - The Wall" width="100%" />
 
-> *"All in all, it was all just another brick in the wall."*
+  <h1>🧱 IS THERE ANYBODY OUT THERE? 🧱</h1>
 
-```text
-+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-|_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_|
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-|_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_|
+  <p>
+    <em>
+      But it was only fantasy<br>
+      The wall was too high, as you can see<br>
+      No matter how he tried, he could not break free<br>
+      And the worms ate into his brain.
+    </em>
+  </p>
 
-```
-
----
-
-## ⚙️ ARCHITECTURAL STACK
-
-Building high-performance interactive interfaces, 3D web environments, and structured tools.
-
-### 🛠️ Core Technologies
-
----
-
-## 🔨 FEATURED PROJECTS
-
-### 🧱 [Brick](https://apokaliptics.github.io)
-
-An interactive 3D web experience built with **Svelte 5**, **Threlte**, and **Three.js**. Explores custom spatial rooms, real-time WebGL lighting, interactive object camera tours, and audio visualizers.
-
-* **Stack:** Svelte 5, Threlte 8, Three.js, Web Audio API, Vite
-
-### 🖼️ Frameprint
-
-A graphics rendering utility designed for canvas image processing, automated visual layouts, and media framing.
-
-* **Stack:** TypeScript, HTML5 Canvas, WebGL
-
-### 🪨 [Concrete](https://community.obsidian.md/plugins/concrete)
-
-An official community plugin for **Obsidian** focused on solidifying structured knowledge, markdown tools, and graph connections.
-
-* **Stack:** TypeScript, Obsidian API, Node.js
+  <!-- Badges -->
+  <a href="https://github.com/apokaliptics">
+    <img src="https://img.shields.io/badge/User-apokaliptics-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/apokaliptics?tab=repositories">
+    <img src="https://img.shields.io/badge/Status-Building%20The%20Wall-000000?style=for-the-badge&logo=git&logoColor=red" />
+  </a>
+</div>
 
 ---
 
-## 📟 SYSTEM TELEMETRY
+## 👁️ What Shall We Do Now?
+
+<div align="center">
+
+| | |
+| :--- | :--- |
+| *Shall we buy a new guitar?*<br>*Shall we drive a more powerful car?*<br>*Shall we work straight through the night?*<br>*Shall we get into fights?*<br>*Leave the lights on?*<br>*Drop bombs?*<br>*Do tours of the east?*<br>*Contract diseases?*<br>*Bury bones?*<br>*Break up homes?*<br>*Send flowers by phone?* | *Take to drink?*<br>*Go to shrinks?*<br>*Give up meat?*<br>*Rarely sleep?*<br>*Keep people as pets?*<br>*Train dogs?*<br>*Race rats?*<br>*Fill the attic with cash?*<br>*Bury treasure?*<br>*Store up leisure?*<br>**But never relax at all**<br>**With our backs to the wall** |
+
+</div>
 
 ---
 
-## 📢 TEAR DOWN THE WALL!
+## 🧱 Bricks in the Machine
 
-```text
-"Hey you, standing in the cold
- Getting lonely, getting old
- Can you feel me?"
+<div align="center">
 
-```
+| Core & Languages | Systems & Frameworks | Infrastructure & Data |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=d62828"/> |
+| <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> | <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=d62828"/> |
+| <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=d62828"/> | <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=d62828"/> |
+| <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=d62828"/> | <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=d62828"/> |
 
-* **Live Site:** [apokaliptics.github.io](https://apokaliptics.github.io)
-* **Obsidian Plugin:** [Concrete](https://community.obsidian.md/plugins/concrete)
+</div>
+
+---
+
+## 🩸 Wall Telemetry & Worms
+
+<div align="center">
+  <!-- Stats Card -->
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=apokaliptics&show_icons=true&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&icon_color=d62828" alt="apokaliptics GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apokaliptics&layout=compact&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Streak Stats Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apokaliptics&theme=dark&background=000000&border=8B0000&stroke=D62828&ring=D62828&fire=D62828&currStreakLabel=D62828" alt="Coding Streak" />
+</div>
+
+---
+
+<!-- Gatefold Artwork Display -->
+<div align="center">
+  <img src="./wallpaper%20(official).jpg" alt="The Wall Gatefold Artwork" width="100%" />
+
+  <br/><br/>
+
+  <h2>🔨 TEAR DOWN THE WALL! 🔨</h2>
+  <p><em>"The evidence before the court is incontrovertible..."</em></p>
+</div>
