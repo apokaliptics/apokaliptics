@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="./My%20Wall%20(red).png" alt="Kiet Minh - The Wall" width="100%" />
+  <!-- Scaled-down Header Banner -->
+  <img src="./My%20Wall%20(red).png" alt="Kiet Minh - The Wall" width="65%" style="max-width: 600px; height: auto;" />
 
   <h1>🧱 IS THERE ANYBODY OUT THERE? 🧱</h1>
 
@@ -68,9 +68,9 @@
 
 ---
 
-<!-- Gatefold Artwork Display -->
+<!-- Marching Hammers GIF Display -->
 <div align="center">
-  <img src="./wallpaper%20(official).jpg" alt="The Wall Gatefold Artwork" width="100%" />
+  <img src="https://cdnb.artstation.com/p/assets/images/images/083/926/337/original/jonas-0159-0250-ezgif-com-video-to-gif-converter.gif?1737110265" alt="Marching Hammers Animation" width="100%" />
 
   <br/><br/>
 
