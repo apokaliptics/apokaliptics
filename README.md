@@ -52,20 +52,19 @@
 ## 🩸 Wall Telemetry & Worms
 
 <div align="center">
-  <!-- Stats Card -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=apokaliptics&show_icons=true&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&icon_color=d62828&cache_seconds=1800" alt="apokaliptics GitHub Stats" />
+  <!-- Stats Card (Using Mirror) -->
+  <img height="185" src="https://github-readme-stats-eight.vercel.app/api?username=apokaliptics&show_icons=true&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&icon_color=d62828" alt="apokaliptics GitHub Stats" />
   
-  <!-- Top Languages Card (Fixed trailing slash) -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=apokaliptics&layout=compact&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&cache_seconds=1800" alt="Top Languages" />
+  <!-- Top Languages Card (Using Mirror) -->
+  <img height="185" src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=apokaliptics&layout=compact&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Streak Stats Widget -->
+  <!-- Streak Stats Widget (Unchanged) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apokaliptics&theme=dark&background=000000&border=8B0000&stroke=D62828&ring=D62828&fire=D62828&currStreakLabel=D62828" alt="Coding Streak" />
 </div>
-
 ---
 
 <!-- Local Marching Hammers GIF Display -->
