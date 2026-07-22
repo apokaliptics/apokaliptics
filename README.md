@@ -53,10 +53,10 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=apokaliptics&show_icons=true&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&icon_color=d62828" alt="apokaliptics GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=apokaliptics&show_icons=true&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&icon_color=d62828&cache_seconds=1800" alt="apokaliptics GitHub Stats" />
   
-  <!-- Top Languages Card -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apokaliptics&layout=compact&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000" alt="Top Languages" />
+  <!-- Top Languages Card (Fixed trailing slash) -->
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=apokaliptics&layout=compact&theme=dark&title_color=d62828&text_color=aaaaaa&bg_color=000000&border_color=8b0000&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br />
@@ -68,9 +68,9 @@
 
 ---
 
-<!-- Marching Hammers GIF Display -->
+<!-- Local Marching Hammers GIF Display -->
 <div align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/083/926/337/original/jonas-0159-0250-ezgif-com-video-to-gif-converter.gif?1737110265" alt="Marching Hammers Animation" width="100%" />
+  <img src="./marching%20hammers.gif" alt="Marching Hammers Animation" width="100%" />
 
   <br/><br/>
 
