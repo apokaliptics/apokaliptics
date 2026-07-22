@@ -61,11 +61,6 @@
   <!-- Streak Stats Widget -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apokaliptics&theme=dark&background=000000&border=8B0000&stroke=D62828&ring=D62828&fire=D62828&currStreakLabel=D62828" alt="Coding Streak" />
 </div>
-
-<div align="center">
-  <!-- Streak Stats Widget (Unchanged) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apokaliptics&theme=dark&background=000000&border=8B0000&stroke=D62828&ring=D62828&fire=D62828&currStreakLabel=D62828" alt="Coding Streak" />
-</div>
 ---
 
 <!-- Local Marching Hammers GIF Display -->
