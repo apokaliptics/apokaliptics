@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Scaled-down Header Banner -->
-  <img src="./My%20Wall%20(red).png" alt="Kiet Minh - The Wall" width="65%" style="max-width: 600px; height: auto;" />
 
   <h1>🧱 IS THERE ANYBODY OUT THERE? 🧱</h1>
 
